@@ -91,7 +91,7 @@ public class Main {
                 count++;
             }
         }
-        System.out.println("Кількость чисел у діапазоні від 000001 до 999999: " + count);
+        System.out.println("Кількість чисел у діапазоні від 000001 до 999999: " + count);
 
     }
 }
